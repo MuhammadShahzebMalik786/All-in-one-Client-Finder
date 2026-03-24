@@ -1,0 +1,10 @@
+linkedin-api
+googlemaps
+requests
+beautifulsoup4
+lxml
+openai
+python-dotenv
+# Local model support
+requests  # For Ollama API
+

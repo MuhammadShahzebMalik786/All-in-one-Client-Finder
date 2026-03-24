@@ -1,0 +1,141 @@
+{
+    "services": [
+        "Data Collection Systems — automated gathering for market research, leads, and price monitoring",
+        "Workflow Automation — eliminate repetitive tasks and connect business tools together",
+        "Custom Backend Services — fast APIs and internal services to power automation and apps",
+        "Mobile Business Applications — cross-platform apps for internal tools or customer platforms",
+        "System Integration — connect platforms, databases, and APIs so data flows automatically",
+        "Automated Data Pipelines — collect, process, and deliver structured data to dashboards and apps",
+        "Rapid MVP Development — turn business ideas into working products for testing and validation",
+        "Technical Troubleshooting — diagnose and resolve server, deployment, and integration issues"
+    ],
+    "proven_results": [
+        "40% increase in sales prediction accuracy for TechCorp Analytics",
+        "20 hours/week saved through automated content analysis for ContentFlow Solutions",
+        "99% accuracy in automated quality control for ManufacturePro",
+        "35% conversion rate improvement in first month for SmartRetail Inc",
+        "15,406 workflow executions with 0% failure rate in production automation system",
+        "200+ qualified leads delivered through automated lead generation",
+        "87% accuracy in financial forecasting model",
+        "94% accuracy in automated visual inspection system"
+    ],
+    "projects": [
+        {
+            "name": "E-commerce Operations Autopilot",
+            "category": "automation",
+            "description": "Built 5 automated systems that handle customer feedback collection, dispute resolution, order notifications, lifetime value analysis, and centralized data management — replacing hours of daily manual work for an online store",
+            "outcome": "Zero manual intervention needed for routine e-commerce operations"
+        },
+        {
+            "name": "Enterprise Automation Engine",
+            "category": "automation",
+            "description": "Production-scale system processing 15,406+ automated tasks with 0% failure rate and 0.02s average runtime — multi-channel help desk, social media posting, and e-commerce engines running 24/7 without oversight",
+            "outcome": "99.9% uptime, zero failures across thousands of automated tasks"
+        },
+        {
+            "name": "Hands-Off Content Factory",
+            "category": "data_pipeline",
+            "description": "Automated content pipeline that generates scripts, produces videos, synthesizes voiceovers, and schedules publishing — turning daily content creation from a time sink into a hands-off system",
+            "outcome": "Content production runs end-to-end without daily involvement"
+        },
+        {
+            "name": "Sales Prediction Dashboard",
+            "category": "data_pipeline",
+            "description": "Intelligent system that turns raw business data into visual predictions — sales forecasting, trend detection, and actionable insights accessible to non-technical teams through interactive dashboards",
+            "outcome": "40% improvement in sales prediction accuracy for the client"
+        },
+        {
+            "name": "Cross-Platform Mobile App",
+            "category": "mobile",
+            "description": "Mobile application running natively on both iOS and Android from a single build — real-time data sync, push notifications, and polished responsive interface that feels native on every device",
+            "outcome": "One development cycle, two platforms, half the typical cost"
+        },
+        {
+            "name": "Automated Lead Generation Machine",
+            "category": "data_collection",
+            "description": "System that automatically identifies, qualifies, and organizes potential business leads — collecting contact details, company info, and engagement signals at scale with personalized data for each prospect",
+            "outcome": "200+ qualified leads delivered with personalized outreach data"
+        },
+        {
+            "name": "Content Intelligence System",
+            "category": "data_pipeline",
+            "description": "Automated system that analyzes content for optimization opportunities, audience sentiment patterns, and competitive insights — replacing 20+ hours of weekly manual content review",
+            "outcome": "20 hours/week saved on content analysis tasks"
+        },
+        {
+            "name": "Automated Quality Inspector",
+            "category": "integration",
+            "description": "Visual inspection system integrated into an existing manufacturing pipeline — automatically detects and flags quality issues in real time without human intervention",
+            "outcome": "99% accuracy rate, seamless integration with existing factory systems"
+        },
+        {
+            "name": "Revenue-Optimized Online Store",
+            "category": "backend",
+            "description": "Complete online store with intelligent product recommendations, automated inventory management, and conversion optimization — engineered to convert browsers into buyers",
+            "outcome": "35% conversion rate improvement within the first month"
+        },
+        {
+            "name": "Business Systems Connector",
+            "category": "integration",
+            "description": "Custom integration layer that connects separate business platforms so information flows automatically between systems — eliminating manual data entry and copy-paste workflows",
+            "outcome": "Eliminated manual data transfer between business systems entirely"
+        },
+        {
+            "name": "Financial Forecasting System",
+            "category": "data_pipeline",
+            "description": "Predictive system that analyzes historical market data to generate price forecasts and trend signals — giving decision-makers data-backed predictions instead of guesswork",
+            "outcome": "87% prediction accuracy on real market data"
+        },
+        {
+            "name": "Smart Visual Recognition System",
+            "category": "integration",
+            "description": "Automated image recognition system that classifies and sorts visual data with near-human accuracy — used for product categorization, quality checks, and visual data processing",
+            "outcome": "94% accuracy in automated visual classification"
+        },
+        {
+            "name": "Personalized Recommendation Engine",
+            "category": "backend",
+            "description": "Intelligent system that learns user preferences and serves personalized recommendations — increasing engagement, time-on-site, and purchase rates for e-commerce and content platforms",
+            "outcome": "Measurable increase in user engagement and repeat purchases"
+        },
+        {
+            "name": "Restaurant Digital Ordering System",
+            "category": "backend",
+            "description": "Complete digital presence for a restaurant with online ordering, dynamic menu management, and delivery coordination — replacing phone orders and manual tracking",
+            "outcome": "Fully digital ordering pipeline, reduced order errors"
+        },
+        {
+            "name": "Custom Productivity Tool",
+            "category": "automation",
+            "description": "Browser-based productivity tool with intelligent features for task management and workflow automation — built to integrate directly into the team's daily workflow",
+            "outcome": "Became an essential daily tool for the client's team"
+        }
+    ],
+    "category_mapping": {
+        "startup": ["mobile", "backend", "automation"],
+        "saas company": ["backend", "automation", "integration"],
+        "marketing agency": ["automation", "data_collection", "data_pipeline"],
+        "digital agency": ["automation", "data_collection", "backend"],
+        "ecommerce": ["automation", "backend", "data_collection"],
+        "real estate": ["mobile", "data_collection", "automation"],
+        "recruitment agency": ["data_collection", "automation", "integration"],
+        "logistics company": ["automation", "backend", "integration"],
+        "healthcare": ["mobile", "backend", "integration"],
+        "fintech": ["data_pipeline", "backend", "automation"],
+        "education": ["mobile", "automation", "data_pipeline"],
+        "restaurant": ["backend", "automation", "mobile"],
+        "fitness": ["mobile", "automation", "backend"],
+        "legal": ["automation", "integration", "data_pipeline"],
+        "accounting firm": ["automation", "integration", "data_pipeline"],
+        "consulting": ["automation", "data_collection", "integration"],
+        "insurance": ["automation", "integration", "backend"],
+        "manufacturing": ["integration", "automation", "data_pipeline"],
+        "software company": ["backend", "integration", "automation"],
+        "media company": ["data_pipeline", "automation", "data_collection"],
+        "retail": ["automation", "backend", "data_collection"],
+        "construction": ["automation", "integration", "mobile"],
+        "travel agency": ["automation", "backend", "data_collection"],
+        "automotive": ["automation", "integration", "data_pipeline"],
+        "default": ["automation", "backend", "data_collection"]
+    }
+}
