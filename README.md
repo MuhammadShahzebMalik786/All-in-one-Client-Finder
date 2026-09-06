@@ -186,4 +186,8 @@ Add your preferred license file (for example MIT) if you plan public reuse.
 
 Muhammad Shahzeb Malik
 
+## Status
+
+Actively maintained — last touched September 2026.
+
 
